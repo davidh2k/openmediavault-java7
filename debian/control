@@ -1,0 +1,11 @@
+Source: openmediavault-java7
+Section: misc
+Priority: optional
+Maintainer: David Hönel <plugins@omv-extras.org>
+Build-Depends: debhelper (>= 8 )
+Standards-Version: 3.9.3
+
+Package: openmediavault-java7
+Architecture: all
+Depends: ${misc:Depends}
+Description: Java7 for OpenMediaVault
